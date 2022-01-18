@@ -1,5 +1,5 @@
 #%%
-print("Hello world")
+print("Hello, beautiful new world")
 print(5 / 8)
 print (7+10)
 print(10/3, 3/10) # print numerical divisions
@@ -7,7 +7,7 @@ print(10//3, 3//10) # print quotients from divisions
 print(10%3, 3%10) # print remainders from divisions
 
 #%%
-astring = "Thank you"
+astring = "quantum entanglement is pretty cool "
 anum = 3.14159265358979323846
 cnt = 1
 # Many different ways to print out the same line
